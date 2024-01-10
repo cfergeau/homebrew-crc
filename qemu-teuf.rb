@@ -1,4 +1,4 @@
-class Qemu < Formula
+class QemuTeuf < Formula
   desc "Generic machine emulator and virtualizer"
   homepage "https://www.qemu.org/"
   url "https://download.qemu.org/qemu-8.2.0.tar.xz"
